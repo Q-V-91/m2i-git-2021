@@ -15,9 +15,11 @@
 
     Bug à corriger sur master: ajouter bug corrigé sur index.html
     -> commit sur master
-    
+
     -> retour sur branch catalogue
 
     lien vers le catalogue dans index.html
     lien retour
     Fusion avec master
+
+    done 13:58
