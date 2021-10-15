@@ -1,0 +1,20 @@
+1. page d'accueil
+    index.html
+
+2. page contact
+    contact.html
+    lien dans index.html vers contact
+
+3. Oubli
+    lien retour dans contact.html
+
+4. Catalogue produits
+    Créer une branche "Catalog"
+    catalogue.html
+    admin/admin-catalogue.html
+
+    Bug à corriger sur master: ajouter bug corrigé sur index.html
+
+    lien vers le catalogue dans index.html
+    lien retour
+    Fusion avec master
